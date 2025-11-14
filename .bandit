@@ -1,0 +1,6 @@
+skips: []
+exclude_dirs:
+  - .venv
+  - venv
+  - migrations
+  - tests
